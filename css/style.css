@@ -1,0 +1,9 @@
+body {
+	background-image: url("../img/fondo.jpg");
+	font-family: "Edwardian Script ITC","Papyrus" 
+}
+.h1 { line-height: 1cm; }
+header {
+	background-color: #D8CEF6
+}
+p {font-size: 25pt}
